@@ -1,0 +1,62 @@
+      body{
+       
+       background-color: #f5f4f5;
+       text-align: center;
+      }
+
+
+      h1{
+        font-family: Arial;
+        color:  #010101;
+        font-size: 36px;
+        font-weight: 700;
+      }
+
+      .photo{
+        display: block;
+        height: 200px;
+        weight: 200px;
+        border: 1px solid;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      #wrapper{
+        width: 500px;
+        margin: auto;
+      }
+
+      .about{
+        font-family: Arial;
+        color:  #1f1f1f;
+        font-size: 14px;
+        font-weight: 400;
+        text-align: left;
+      }
+
+      .header{
+        font-family: 'Arial';
+        color:  #1f1f1f;
+        font-size: 18px;
+        font-weight: 700;
+        text-align: left;
+      }
+
+      .info{
+        font-family: Arial;
+        color:  #1f1f1f;
+        font-size: 14px;
+        font-weight: 500;
+        text-align: left;
+        text-indent: 32px;
+      }
+
+      ul{
+        text-indent: 0;
+      }
+
+      .box{
+        border-bottom: 1px solid #dad5d9;
+        padding-bottom: 7px;
+        
+      }
